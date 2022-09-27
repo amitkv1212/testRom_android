@@ -1,4 +1,4 @@
-LineageOS
+TestRom_lineageos
 ===========
 
 Getting started
@@ -8,7 +8,8 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
+repo init -u https://github.com/amitkv1212/testRom_android -b lineage-19.1
+
 ```
 Then to sync up:
 ```
